@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694865431560",
+    "project_id": "chat-task-19f6c",
+    "storage_bucket": "chat-task-19f6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694865431560:android:bdb84b8d128e96baf4d5bd",
+        "android_client_info": {
+          "package_name": "com.example.chat_task_ronaq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694865431560-t8pr7dp38gv58fe54lm3q23hkc4r3njj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6aGd7NkmduFKsC5b62R48wTnYaL2Bd8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694865431560-t8pr7dp38gv58fe54lm3q23hkc4r3njj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
